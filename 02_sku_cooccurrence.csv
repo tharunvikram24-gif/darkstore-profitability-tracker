@@ -1,0 +1,21 @@
+product_a,product_b,times_ordered_together,annual_revenue_at_risk_k_inr
+"Bag of Organic Bananas","Organic Strawberries",1040,1684.8
+"Bag of Organic Bananas","Organic Hass Avocado",1033,1673.5
+"Organic Strawberries",Banana,827,1339.7
+Banana,"Organic Avocado",823,1333.3
+"Organic Baby Spinach",Banana,791,1281.4
+"Bag of Organic Bananas","Organic Baby Spinach",722,1169.6
+"Organic Strawberries","Organic Hass Avocado",720,1166.4
+Banana,"Large Lemon",680,1101.6
+"Bag of Organic Bananas","Organic Raspberries",675,1093.5
+"Organic Strawberries","Organic Baby Spinach",619,1002.8
+"Organic Strawberries","Organic Raspberries",619,1002.8
+Strawberries,Banana,610,988.2
+"Bag of Organic Bananas","Organic Whole Milk",537,869.9
+Banana,"Cucumber Kirby",525,850.5
+"Organic Baby Spinach","Organic Hass Avocado",510,826.2
+Banana,Limes,502,813.2
+Banana,"Organic Fuji Apple",498,806.8
+"Organic Baby Spinach","Organic Avocado",468,758.2
+Limes,"Large Lemon",439,711.2
+Banana,"Organic Hass Avocado",434,703.1

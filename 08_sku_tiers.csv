@@ -1,0 +1,501 @@
+sku_id,product_name,department,total_revenue,total_orders,reorder_rate_pct,fulfilment_rate_pct,sku_tier,availability_alert
+24852,Banana,produce,5287364.60,7348,83.1,92.9,"TIER 1 — Must stock everywhere",OK
+13176,"Bag of Organic Bananas",produce,2242529.69,6262,82.8,93.0,"TIER 1 — Must stock everywhere",OK
+21903,"Organic Baby Spinach",produce,1438012.62,3850,75.7,93.2,"TIER 1 — Must stock everywhere",OK
+27845,"Organic Whole Milk","dairy eggs",1425430.24,2436,85.2,93.1,"TIER 1 — Must stock everywhere",OK
+26209,Limes,produce,1328779.20,2491,68.9,92.9,"TIER 1 — Must stock everywhere",OK
+21137,"Organic Strawberries",produce,1185899.58,4538,77.3,93.1,"TIER 1 — Must stock everywhere",OK
+47626,"Large Lemon",produce,1153207.41,2656,70.4,94.1,"TIER 1 — Must stock everywhere",OK
+27966,"Organic Raspberries",produce,1028278.08,2312,76.6,92.9,"TIER 1 — Must stock everywhere",OK
+22935,"Organic Yellow Onion",produce,1025635.13,1745,69.1,92.7,"TIER 1 — Must stock everywhere",OK
+30391,"Organic Cucumber",produce,977177.58,1454,72.0,92.8,"TIER 1 — Must stock everywhere",OK
+44632,"Sparkling Water Grapefruit",beverages,879609.78,1302,77.1,92.6,"TIER 1 — Must stock everywhere",OK
+16797,Strawberries,produce,852877.95,2311,68.2,92.9,"TIER 1 — Must stock everywhere",OK
+42265,"Organic Baby Carrots",produce,769775.40,1273,65.3,93.2,"TIER 1 — Must stock everywhere",OK
+5876,"Organic Lemon",produce,733843.93,1405,68.3,93.4,"TIER 1 — Must stock everywhere",OK
+4920,"Seedless Red Grapes",produce,723178.40,1252,64.8,93.0,"TIER 1 — Must stock everywhere",OK
+17794,Carrots,produce,706551.80,1245,65.9,92.0,"TIER 1 — Must stock everywhere",OK
+45066,"Honeycrisp Apple",produce,692735.70,1189,69.3,92.8,"TIER 1 — Must stock everywhere",OK
+24964,"Organic Garlic",produce,641836.40,1920,69.0,91.5,"TIER 1 — Must stock everywhere",OK
+10749,"Organic Red Bell Pepper",produce,623503.98,979,66.6,92.1,"TIER 1 — Must stock everywhere",OK
+49683,"Cucumber Kirby",produce,602186.50,1783,71.5,92.6,"TIER 1 — Must stock everywhere",OK
+27521,"Organic Lacinato (Dinosaur) Kale",produce,592734.32,824,73.5,92.6,"TIER 1 — Must stock everywhere",OK
+21938,"Green Bell Pepper",produce,562268.52,896,62.2,93.2,"TIER 1 — Must stock everywhere",OK
+21616,"Organic Baby Arugula",produce,537055.36,1142,66.6,93.1,"TIER 1 — Must stock everywhere",OK
+8277,"Apple Honeycrisp Organic",produce,536717.25,1327,71.6,93.7,"TIER 1 — Must stock everywhere",OK
+5785,"Organic Reduced Fat 2% Milk","dairy eggs",531472.50,745,78.3,91.9,"TIER 1 — Must stock everywhere",OK
+41950,"Organic Tomato Cluster",produce,514463.09,957,64.6,92.5,"TIER 1 — Must stock everywhere",OK
+33198,"Sparkling Natural Mineral Water",beverages,502017.78,725,72.4,92.4,"TIER 1 — Must stock everywhere",OK
+39877,"Organic Granny Smith Apple",produce,488832.54,897,70.7,92.6,"TIER 1 — Must stock everywhere",OK
+33731,"Grated Parmesan","dairy eggs",484767.20,787,65.7,92.2,"TIER 1 — Must stock everywhere",OK
+9839,"Organic Broccoli",produce,464464.77,708,71.2,92.9,"TIER 1 — Must stock everywhere",OK
+24838,"Unsweetened Almondmilk","dairy eggs",452554.62,852,71.9,94.0,"TIER 1 — Must stock everywhere",OK
+34243,"Organic Baby Broccoli",produce,443296.03,604,69.4,93.9,"TIER 1 — Must stock everywhere",OK
+47209,"Organic Hass Avocado",produce,436626.32,3575,79.0,93.1,"TIER 1 — Must stock everywhere",OK
+5077,"100% Whole Wheat Bread",bakery,422175.18,904,70.6,92.7,"TIER 1 — Must stock everywhere",OK
+39928,"Organic Kiwi",produce,419077.40,763,72.7,90.8,"TIER 1 — Must stock everywhere",OK
+47766,"Organic Avocado",produce,418400.94,2755,74.7,92.9,"TIER 1 — Must stock everywhere",OK
+48679,"Organic Garnet Sweet Potato (Yam)",produce,413935.20,768,65.4,93.2,"TIER 1 — Must stock everywhere",OK
+12341,"Hass Avocados",produce,408863.79,1009,74.6,93.0,"TIER 1 — Must stock everywhere",OK
+39275,"Organic Blueberries",produce,398595.36,1612,61.4,93.1,"TIER 1 — Must stock everywhere",OK
+22825,"Organic D'Anjou Pears",produce,393523.20,723,68.3,92.3,"TIER 1 — Must stock everywhere",OK
+45007,"Organic Zucchini",produce,389166.72,1656,68.1,93.7,"TIER 1 — Must stock everywhere",OK
+35221,"Lime Sparkling Water",beverages,371118.70,801,73.9,92.8,"TIER 1 — Must stock everywhere",OK
+46906,"Grape White/Green Seedless",produce,367417.60,594,65.3,94.1,"TIER 1 — Must stock everywhere",OK
+43352,Raspberries,produce,363423.84,1112,72.8,92.5,"TIER 1 — Must stock everywhere",OK
+43961,"Organic Peeled Whole Baby Carrots",produce,356701.14,860,60.9,93.5,"TIER 1 — Must stock everywhere",OK
+49235,"Organic Half & Half","dairy eggs",353664.78,1356,79.1,92.6,"TIER 1 — Must stock everywhere",OK
+28199,"Clementines, Bag",produce,346849.78,540,55.9,93.3,"TIER 1 — Must stock everywhere",OK
+42768,"Organic Garbanzo Beans","canned goods",336302.72,537,56.4,91.2,"TIER 1 — Must stock everywhere",OK
+8518,"Organic Red Onion",produce,335024.36,1111,60.8,94.9,"TIER 1 — Must stock everywhere",OK
+38689,"Organic Reduced Fat Milk","dairy eggs",330367.59,598,87.0,92.5,"TIER 1 — Must stock everywhere",OK
+28985,"Michigan Organic Kale",produce,325965.03,1190,69.0,93.0,"TIER 1 — Must stock everywhere",OK
+33000,"Pure Irish Butter","dairy eggs",324193.32,495,62.8,93.9,"TIER 1 — Must stock everywhere",OK
+41787,"Bartlett Pears",produce,322263.50,558,61.3,93.4,"TIER 1 — Must stock everywhere",OK
+23909,"2% Reduced Fat Milk","dairy eggs",320264.76,531,75.7,93.4,"TIER 1 — Must stock everywhere",OK
+46667,"Organic Ginger Root",produce,318359.00,758,53.3,92.1,"TIER 1 — Must stock everywhere",OK
+42736,"Unsalted Butter","dairy eggs",310799.90,627,55.3,94.4,"TIER 1 — Must stock everywhere",OK
+24184,"Red Peppers",produce,309692.27,985,64.7,93.6,"TIER 1 — Must stock everywhere",OK
+42585,"Organic Extra Firm Tofu",deli,305818.05,456,65.6,94.7,"TIER 1 — Must stock everywhere",OK
+9387,"Granny Smith Apples",produce,305308.48,614,66.0,92.3,"TIER 1 — Must stock everywhere",OK
+37646,"Organic Gala Apples",produce,301797.37,1308,75.1,92.0,"TIER 1 — Must stock everywhere",OK
+29447,"Milk, Organic, Vitamin D","dairy eggs",296956.45,497,88.7,90.1,"TIER 1 — Must stock everywhere",OK
+8424,"Broccoli Crown",produce,291475.52,689,60.5,92.2,"TIER 1 — Must stock everywhere",OK
+41844,"Honey Nut Cheerios",breakfast,288471.12,437,53.3,91.8,"TIER 1 — Must stock everywhere",OK
+42828,"Whipped Cream Cheese","dairy eggs",283435.25,552,69.6,91.7,"TIER 1 — Must stock everywhere",OK
+39475,"Total Greek Strained Yogurt","dairy eggs",282679.53,461,77.2,92.2,"TIER 1 — Must stock everywhere",OK
+27086,"Half & Half","dairy eggs",273807.10,1130,75.8,93.5,"TIER 1 — Must stock everywhere",OK
+39408,"Gala Apples",produce,265829.00,406,65.3,94.3,"TIER 1 — Must stock everywhere",OK
+44142,"Red Onion",produce,265342.38,682,54.1,92.8,"TIER 1 — Must stock everywhere",OK
+5450,"Small Hass Avocado",produce,263926.69,696,62.4,94.1,"TIER 1 — Must stock everywhere",OK
+11777,"Red Raspberries",produce,262215.64,426,65.3,93.0,"TIER 1 — Must stock everywhere",OK
+5479,"Italian Sparkling Mineral Water",beverages,258480.32,439,79.0,90.4,"TIER 1 — Must stock everywhere",OK
+38383,"Organic White Onions",produce,256588.80,530,65.5,93.2,"TIER 1 — Must stock everywhere",OK
+27156,"Organic Black Beans","canned goods",249281.71,604,58.6,93.0,"TIER 1 — Must stock everywhere",OK
+4605,"Yellow Onions",produce,244057.50,1099,55.9,95.0,"TIER 1 — Must stock everywhere",OK
+8174,"Organic Navel Orange",produce,243002.76,660,60.5,94.8,"TIER 1 — Must stock everywhere",OK
+8193,"Russet Potato",produce,235318.44,448,52.2,92.4,"TIER 1 — Must stock everywhere",OK
+37687,"Organic Spring Mix",produce,233896.06,515,66.4,94.4,"TIER 1 — Must stock everywhere",OK
+432,"Vanilla Almond Breeze Almond Milk","dairy eggs",232972.30,515,72.6,91.5,"TIER 1 — Must stock everywhere",OK
+32655,"Organic Large Grade AA Brown Eggs","dairy eggs",229378.38,460,77.8,93.0,"TIER 1 — Must stock everywhere",OK
+18523,"Total 2% All Natural Greek Strained Yogurt with Honey","dairy eggs",228394.84,418,71.3,92.6,"TIER 1 — Must stock everywhere",OK
+11520,"Large Alfresco Eggs","dairy eggs",220963.26,764,79.3,94.0,"TIER 1 — Must stock everywhere",OK
+31343,"Shredded Mild Cheddar Cheese","dairy eggs",219138.80,407,59.7,93.1,"TIER 1 — Must stock everywhere",OK
+40396,Guacamole,deli,218553.76,360,66.1,93.6,"TIER 1 — Must stock everywhere",OK
+48205,Spinach,produce,216549.81,289,53.6,93.4,"TIER 1 — Must stock everywhere",OK
+24799,"Vanilla Skyr Nonfat Yogurt","dairy eggs",215719.92,346,71.7,92.2,"TIER 1 — Must stock everywhere",OK
+32689,"Romaine Hearts",produce,213124.14,444,56.8,91.9,"TIER 1 — Must stock everywhere",OK
+15290,"Orange Bell Pepper",produce,212322.36,684,63.7,94.4,"TIER 1 — Must stock everywhere",OK
+28842,"Bunched Cilantro",produce,212260.18,709,55.0,94.2,"TIER 1 — Must stock everywhere",OK
+23734,"Sour Cream","dairy eggs",212229.20,327,50.2,93.9,"TIER 1 — Must stock everywhere",OK
+2966,"Pure Coconut Water",beverages,208798.03,347,64.8,91.4,"TIER 1 — Must stock everywhere",OK
+21709,"Sparkling Lemon Water",beverages,208277.76,566,73.7,92.9,"TIER 1 — Must stock everywhere",OK
+34448,"Original Veggie Straws",snacks,204630.72,336,67.3,91.1,"TIER 1 — Must stock everywhere",OK
+35951,"Organic Unsweetened Almond Milk","dairy eggs",203209.44,938,75.4,93.3,"TIER 1 — Must stock everywhere",OK
+8021,"100% Recycled Paper Towels",household,199456.45,419,58.2,93.6,"TIER 1 — Must stock everywhere",OK
+35939,"Organic Jalapeno Pepper",produce,197170.74,347,55.6,91.9,"TIER 1 — Must stock everywhere",OK
+33754,"Total 2% with Strawberry Lowfat Greek Strained Yogurt","dairy eggs",197000.91,482,75.5,93.8,"TIER 1 — Must stock everywhere",OK
+2295,"Yellow Bell Pepper",produce,193746.00,421,55.8,93.1,"TIER 1 — Must stock everywhere",OK
+41290,Lemonade,beverages,193249.49,376,70.7,92.0,"TIER 1 — Must stock everywhere",OK
+44683,"Brussels Sprouts",produce,193063.05,386,56.5,91.2,"TIER 1 — Must stock everywhere",OK
+10246,"Organic Celery Hearts",produce,215330.61,325,44.0,92.9,"TIER 2 — Stock in high demand stores",OK
+2086,"Sustainably Soft Bath Tissue",household,192535.20,287,58.9,91.6,"TIER 2 — Stock in high demand stores",OK
+40199,"Chocolate Chip Cookies",snacks,192491.65,284,67.6,91.5,"TIER 2 — Stock in high demand stores",OK
+12456,"Organic Sunday Bacon","meat seafood",190330.29,297,64.0,92.6,"TIER 2 — Stock in high demand stores",OK
+13870,"Lightly Salted Baked Snap Pea Crisps",snacks,189088.90,384,58.3,91.9,"TIER 2 — Stock in high demand stores",OK
+31506,"Extra Virgin Olive Oil",pantry,188868.87,784,47.7,93.5,"TIER 2 — Stock in high demand stores",OK
+26620,"Peach Pear Flavored Sparkling Water",beverages,188773.66,367,71.1,92.9,"TIER 2 — Stock in high demand stores",OK
+20114,"Jalapeno Peppers",produce,185468.40,577,52.9,92.7,"TIER 2 — Stock in high demand stores",OK
+34126,"Organic Italian Parsley Bunch",produce,184686.21,1022,61.9,92.0,"TIER 2 — Stock in high demand stores",OK
+28993,"Iceberg Lettuce",produce,182579.86,255,62.0,92.2,"TIER 2 — Stock in high demand stores",OK
+40571,"Total 2% Greek Strained Yogurt with Cherry 5.3 oz","dairy eggs",182519.81,294,65.3,92.5,"TIER 2 — Stock in high demand stores",OK
+37067,"Organic Banana",produce,182055.42,285,55.8,93.7,"TIER 2 — Stock in high demand stores",OK
+13984,"Organic Mint",produce,181711.98,362,54.7,92.0,"TIER 2 — Stock in high demand stores",OK
+3957,"100% Raw Coconut Water",beverages,180091.11,588,78.4,92.7,"TIER 2 — Stock in high demand stores",OK
+48775,"Organic Red Cabbage",produce,179304.36,246,51.6,93.9,"TIER 2 — Stock in high demand stores",OK
+47144,"Unsweetened Original Almond Breeze Almond Milk","dairy eggs",178935.75,631,73.5,93.5,"TIER 2 — Stock in high demand stores",OK
+47734,"Organic Green Cabbage",produce,178849.71,315,47.3,93.3,"TIER 2 — Stock in high demand stores",OK
+5212,"Watermelon Chunks",produce,177278.90,426,74.2,91.8,"TIER 2 — Stock in high demand stores",OK
+14678,"Organic Frozen Peas",frozen,175524.30,315,59.0,90.8,"TIER 2 — Stock in high demand stores",OK
+26604,"Organic Blackberries",produce,173936.15,1043,66.4,93.2,"TIER 2 — Stock in high demand stores",OK
+18362,"Organic Bread with 21 Whole Grains",bakery,172288.46,279,64.2,92.5,"TIER 2 — Stock in high demand stores",OK
+20842,"Total 0% Greek Yogurt","dairy eggs",170387.20,386,65.5,92.2,"TIER 2 — Stock in high demand stores",OK
+42342,"Roasted Turkey Breast",deli,169982.75,351,59.0,92.9,"TIER 2 — Stock in high demand stores",OK
+46969,"Organic Bosc Pear",produce,167276.10,363,69.7,92.3,"TIER 2 — Stock in high demand stores",OK
+16953,"Creamy Peanut Butter",pantry,166807.08,363,54.5,93.4,"TIER 2 — Stock in high demand stores",OK
+38400,"Asparation/Broccolini/Baby Broccoli",produce,166159.60,274,55.8,93.8,"TIER 2 — Stock in high demand stores",OK
+21405,"Organic Red Radish, Bunch",produce,165967.40,489,67.3,92.8,"TIER 2 — Stock in high demand stores",OK
+21019,"Roasted Red Pepper Hummus",deli,164020.00,261,52.5,93.5,"TIER 2 — Stock in high demand stores",OK
+43789,"Organic Basil",produce,163424.94,463,50.1,93.5,"TIER 2 — Stock in high demand stores",OK
+28934,"Frozen Broccoli Florets",frozen,161787.84,246,66.3,91.9,"TIER 2 — Stock in high demand stores",OK
+21376,"Pretzel Crisps Original Deli Style Pretzel Crackers",snacks,160640.76,307,68.1,92.2,"TIER 2 — Stock in high demand stores",OK
+20119,"Sparkling Water Berry",beverages,159953.04,311,73.3,91.3,"TIER 2 — Stock in high demand stores",OK
+48364,"Sweet Onion",produce,159898.60,314,55.7,93.0,"TIER 2 — Stock in high demand stores",OK
+44910,"Organic Spring Mix Salad",produce,159472.39,394,61.4,91.6,"TIER 2 — Stock in high demand stores",OK
+18027,"Ezekiel 4:9 Bread Organic Sprouted Whole Grain",bakery,157169.72,352,64.5,92.9,"TIER 2 — Stock in high demand stores",OK
+4562,"English Seedless Cucumber",produce,157094.40,242,55.8,91.7,"TIER 2 — Stock in high demand stores",OK
+28204,"Organic Fuji Apple",produce,156205.05,1488,71.6,94.2,"TIER 2 — Stock in high demand stores",OK
+7948,"Organic Unsalted Butter","dairy eggs",155245.41,380,56.6,93.7,"TIER 2 — Stock in high demand stores",OK
+27104,"Fresh Cauliflower",produce,155175.61,1265,66.0,92.7,"TIER 2 — Stock in high demand stores",OK
+38293,"Ground Turkey Breast","meat seafood",154412.70,450,62.9,93.6,"TIER 2 — Stock in high demand stores",OK
+19057,"Organic Large Extra Fancy Fuji Apple",produce,153080.19,1189,74.7,93.3,"TIER 2 — Stock in high demand stores",OK
+35547,"Organic Baby Kale",produce,152603.36,374,69.0,92.0,"TIER 2 — Stock in high demand stores",OK
+26790,"Organic AppleApple","canned goods",152577.80,309,71.2,92.2,"TIER 2 — Stock in high demand stores",OK
+45633,"Organic Beef Hot Dogs","meat seafood",151147.31,269,55.4,93.7,"TIER 2 — Stock in high demand stores",OK
+25659,"Organic Coconut Milk","dairy eggs",150642.64,439,55.8,92.0,"TIER 2 — Stock in high demand stores",OK
+22963,"Organic Roasted Turkey Breast",deli,148516.70,486,63.2,92.2,"TIER 2 — Stock in high demand stores",OK
+49075,"Organic Brown Rice",frozen,147864.00,296,64.5,95.3,"TIER 2 — Stock in high demand stores",OK
+19678,"Organic Russet Potato",produce,144422.08,474,55.7,94.1,"TIER 2 — Stock in high demand stores",OK
+39993,"Vine Ripe Tomatoes",produce,143578.38,252,55.6,94.4,"TIER 2 — Stock in high demand stores",OK
+31040,"Sea Salt Pita Chips",snacks,142840.30,259,58.7,93.8,"TIER 2 — Stock in high demand stores",OK
+19348,"Fat Free Milk","dairy eggs",142804.80,466,74.0,93.3,"TIER 2 — Stock in high demand stores",OK
+24954,"Total 0% with Honey Nonfat Greek Strained Yogurt","dairy eggs",142414.04,220,70.9,94.5,"TIER 2 — Stock in high demand stores",OK
+43772,"Cherubs Heavenly Salad Tomatoes",produce,142270.58,382,66.5,92.4,"TIER 2 — Stock in high demand stores",OK
+13829,"Mild Salsa",pantry,140541.06,211,45.0,93.8,"TIER 2 — Stock in high demand stores",OK
+40174,"2% Reduced Fat Organic Milk","dairy eggs",139860.24,277,74.4,94.2,"TIER 2 — Stock in high demand stores",OK
+29487,"Roma Tomato",produce,136829.28,753,65.3,91.5,"TIER 2 — Stock in high demand stores",OK
+33129,"Classic Hummus",deli,136737.30,238,58.0,91.2,"TIER 2 — Stock in high demand stores",OK
+19677,"Original Pure Creamy Almond Milk","dairy eggs",135248.96,240,74.6,92.9,"TIER 2 — Stock in high demand stores",OK
+48745,"Globe Eggplant",produce,135234.83,251,53.8,94.8,"TIER 2 — Stock in high demand stores",OK
+2855,"Organic Good Seed Bread",bakery,134478.50,207,68.1,93.7,"TIER 2 — Stock in high demand stores",OK
+26283,"White Corn",produce,133107.31,330,62.1,94.5,"TIER 2 — Stock in high demand stores",OK
+22849,"Bunny-Luv Fresh Organic Carrots",produce,132719.94,223,57.0,93.7,"TIER 2 — Stock in high demand stores",OK
+19508,"Corn Tortillas",bakery,132575.88,262,48.1,95.8,"TIER 2 — Stock in high demand stores",OK
+36695,"Organic Hothouse Cucumbers",produce,132570.18,415,65.5,92.0,"TIER 2 — Stock in high demand stores",OK
+22035,"Organic Whole String Cheese","dairy eggs",132566.98,1102,76.9,92.7,"TIER 2 — Stock in high demand stores",OK
+38928,"0% Greek Strained Yogurt","dairy eggs",132336.49,290,84.1,91.7,"TIER 2 — Stock in high demand stores",OK
+37710,"Trail Mix",snacks,132097.14,225,81.8,93.3,"TIER 2 — Stock in high demand stores",OK
+41658,"Authentic French Brioche Hamburger Buns",bakery,130334.05,199,72.4,95.5,"TIER 2 — Stock in high demand stores",OK
+39180,"Organic Lowfat 1% Milk","dairy eggs",127339.92,273,83.5,92.7,"TIER 2 — Stock in high demand stores",OK
+43713,"Organic Creamy Peanut Butter",pantry,126889.70,289,55.0,92.4,"TIER 2 — Stock in high demand stores",OK
+13646,"Lemon Hummus",deli,126058.85,217,65.9,91.7,"TIER 2 — Stock in high demand stores",OK
+43154,"Sparkling Mineral Water",beverages,125143.20,366,80.6,93.4,"TIER 2 — Stock in high demand stores",OK
+19691,"Green Seedless Grapes",produce,124305.98,177,62.1,92.1,"TIER 2 — Stock in high demand stores",OK
+7781,"Organic Sticks Low Moisture Part Skim Mozzarella String Cheese","dairy eggs",124294.65,588,72.4,93.2,"TIER 2 — Stock in high demand stores",OK
+1511,"2% Reduced Fat DHA Omega-3 Reduced Fat Milk","dairy eggs",123994.50,165,71.5,93.9,"TIER 2 — Stock in high demand stores",OK
+28476,"Organic Small Curd Cottage Cheese","dairy eggs",123927.30,200,67.5,91.5,"TIER 2 — Stock in high demand stores",OK
+28156,"Total 0% Nonfat Plain Greek Yogurt","dairy eggs",123914.36,309,60.2,92.6,"TIER 2 — Stock in high demand stores",OK
+27336,"Organic Rainbow Carrots",produce,123573.78,226,46.9,90.7,"TIER 2 — Stock in high demand stores",OK
+13575,Apples,produce,121923.54,251,81.3,96.0,"TIER 2 — Stock in high demand stores",OK
+27325,"Alpine Spring Water",beverages,121155.65,200,76.0,91.5,"TIER 2 — Stock in high demand stores",OK
+23029,"Organic Uncured Sliced Black Forest Ham",deli,120503.29,196,63.8,94.4,"TIER 2 — Stock in high demand stores",OK
+43768,"Organic Bell Pepper",produce,120315.00,376,58.5,94.1,"TIER 2 — Stock in high demand stores",OK
+34050,"Orange Juice",beverages,120112.74,408,79.9,92.9,"TIER 2 — Stock in high demand stores",OK
+19048,"Organic Butternut Squash",produce,119888.64,295,46.4,92.2,"TIER 2 — Stock in high demand stores",OK
+15261,"Organic Rosemary",produce,119439.94,190,38.9,94.7,"TIER 2 — Stock in high demand stores",OK
+40706,"Organic Grape Tomatoes",produce,119402.75,1279,60.9,93.7,"TIER 2 — Stock in high demand stores",OK
+32691,"Vanilla Ice Cream",frozen,118440.98,200,51.0,93.5,"TIER 2 — Stock in high demand stores",OK
+15613,"Salted Tub of Butter","dairy eggs",118038.06,200,63.5,95.0,"TIER 2 — Stock in high demand stores",OK
+3952,"Organic Broccoli Crowns",produce,117934.46,272,60.7,94.1,"TIER 2 — Stock in high demand stores",OK
+42110,"Organic Macaroni Shells & Real Aged Cheddar","dry goods pasta",117392.49,171,55.6,93.0,"TIER 2 — Stock in high demand stores",OK
+27730,"Almond Breeze Original Almond Milk","dairy eggs",116809.44,259,78.4,92.3,"TIER 2 — Stock in high demand stores",OK
+15424,"Purified Water",beverages,115886.32,242,82.2,92.1,"TIER 2 — Stock in high demand stores",OK
+46676,"Total 0% Nonfat Greek Yogurt","dairy eggs",114272.40,474,70.5,92.0,"TIER 2 — Stock in high demand stores",OK
+30720,"Sugar Snap Peas",produce,113872.44,299,62.2,92.3,"TIER 2 — Stock in high demand stores",OK
+36724,"Organic Sea Salt Roasted Seaweed Snacks",international,113694.84,197,70.1,92.9,"TIER 2 — Stock in high demand stores",OK
+5769,"Organic Chicken Stock","canned goods",111521.60,193,48.7,92.2,"TIER 2 — Stock in high demand stores",OK
+1244,"Organic Orange Bell Pepper",produce,111151.70,184,53.8,93.5,"TIER 2 — Stock in high demand stores",OK
+12206,"Basil Pesto","dry goods pasta",111117.45,196,43.9,94.4,"TIER 2 — Stock in high demand stores",OK
+42244,"Total 2% All Natural Low Fat 2% Milkfat Greek Strained Yogurt","dairy eggs",110776.83,203,70.9,89.7,"TIER 2 — Stock in high demand stores",OK
+47672,"Uncured Hickory Smoked Sunday Bacon","meat seafood",110756.70,395,65.3,95.4,"TIER 2 — Stock in high demand stores",OK
+37524,"Fresh Mozzarella Ball","dairy eggs",110501.82,167,56.3,94.0,"TIER 2 — Stock in high demand stores",OK
+260,Cantaloupe,produce,109316.28,297,57.6,91.2,"TIER 2 — Standard stocking",OK
+2078,"Unsalted Pure Irish Butter","dairy eggs",109225.11,354,68.6,91.0,"TIER 2 — Standard stocking",OK
+13166,"Organic Milk Reduced Fat, 2% Milkfat","dairy eggs",108885.00,269,81.0,87.4,"TIER 2 — Standard stocking",OK
+23375,"Marinara Sauce","dry goods pasta",108869.64,374,69.3,93.9,"TIER 2 — Standard stocking",OK
+5782,"Grade A Large White Eggs","dairy eggs",108101.40,177,61.6,92.1,"TIER 2 — Standard stocking",OK
+13733,"Red Potatoes",produce,107824.08,177,43.5,91.0,"TIER 2 — Standard stocking",OK
+18918,"Organic Chopped Spinach",frozen,107365.86,167,45.5,94.0,"TIER 2 — Standard stocking",OK
+9076,Blueberries,frozen,107293.85,906,58.7,93.9,"TIER 2 — Standard stocking",OK
+21292,"Rainbow Bell Peppers",produce,107209.81,165,64.8,92.7,"TIER 2 — Standard stocking",OK
+32478,"Reduced Fat 2% Milk","dairy eggs",106438.95,316,77.2,90.2,"TIER 2 — Standard stocking",OK
+10017,"Tilapia Filet","meat seafood",106117.26,210,56.2,91.4,"TIER 2 — Standard stocking",OK
+25146,"Original Orange Juice",beverages,105527.16,396,56.3,94.4,"TIER 2 — Standard stocking",OK
+48628,"Organic Whole Wheat Bread",bakery,105199.12,251,76.1,94.0,"TIER 2 — Standard stocking",OK
+27695,"Natural Chicken & Sage Breakfast Sausage","meat seafood",104933.85,274,63.9,93.4,"TIER 2 — Standard stocking",OK
+26165,"Electrolyte Enhanced Water",beverages,103990.32,336,73.5,92.3,"TIER 2 — Standard stocking",OK
+21295,"Organic Spaghetti Squash",produce,103538.90,233,51.1,91.8,"TIER 2 — Standard stocking",OK
+14947,"Pure Sparkling Water",beverages,103383.60,411,79.3,91.5,"TIER 2 — Standard stocking",OK
+8670,"Diced Tomatoes","canned goods",103290.30,248,52.0,91.5,"TIER 2 — Standard stocking",OK
+33120,"Organic Egg Whites","dairy eggs",103146.26,316,72.2,91.8,"TIER 2 — Standard stocking",OK
+45200,"Organic Cauliflower",produce,103091.52,193,53.9,94.8,"TIER 2 — Standard stocking",OK
+38456,"Large Grapefruit",produce,102691.84,326,54.9,93.6,"TIER 2 — Standard stocking",OK
+44987,"Heavy Whipping Cream","dairy eggs",102403.83,324,52.2,92.0,"TIER 2 — Standard stocking",OK
+47759,"Mandarin Oranges",produce,102030.08,164,47.0,92.1,"TIER 2 — Standard stocking",OK
+45123,"Organic 21 Grain Thin Sliced Bread",bakery,101902.50,175,65.1,93.1,"TIER 2 — Standard stocking",OK
+49383,"Organic Bunch Beets",produce,101734.40,248,53.2,94.4,"TIER 2 — Standard stocking",OK
+26369,"Organic Roma Tomato",produce,101571.63,475,58.5,92.6,"TIER 2 — Standard stocking",OK
+35561,"Organic Tortilla Chips",snacks,101280.88,210,56.7,92.4,"TIER 2 — Standard stocking",OK
+6184,Clementines,produce,100679.52,516,75.6,93.4,"TIER 2 — Standard stocking",OK
+8571,"Baby Cucumbers",produce,100489.41,170,73.5,91.2,"TIER 2 — Standard stocking",OK
+28465,"Icelandic Style Skyr Blueberry Non-fat Yogurt","dairy eggs",100403.24,304,71.4,92.8,"TIER 2 — Standard stocking",OK
+5258,"Sparkling Water",beverages,100401.91,259,71.0,95.0,"TIER 2 — Standard stocking",OK
+29307,"Baby Arugula",produce,100342.20,208,60.6,90.9,"TIER 2 — Standard stocking",OK
+21288,Blackberries,produce,99966.60,383,60.6,93.2,"TIER 2 — Standard stocking",OK
+7559,"Cinnamon Rolls with Icing",pantry,99597.63,212,66.5,92.5,"TIER 2 — Standard stocking",OK
+10644,"Italian Extra Virgin Olive Oil",pantry,99431.20,212,33.5,91.5,"TIER 2 — Standard stocking",OK
+27796,"Real Mayonnaise",pantry,99003.96,195,45.6,91.8,"TIER 2 — Standard stocking",OK
+42701,"Organic Sour Cream","dairy eggs",98785.20,402,55.2,92.5,"TIER 2 — Standard stocking",OK
+26384,"Large Brown Eggs","dairy eggs",98514.00,155,56.8,93.5,"TIER 2 — Standard stocking",OK
+21195,"Organic Extra Virgin Olive Oil",pantry,98270.62,220,48.6,92.3,"TIER 2 — Standard stocking",OK
+43122,"Organic Bartlett Pear",produce,98046.79,602,70.4,94.0,"TIER 2 — Standard stocking",OK
+17795,"Organic Green Leaf Lettuce",produce,97094.28,214,57.5,89.7,"TIER 2 — Standard stocking",OK
+16349,"Organic Yams",produce,96813.05,277,53.4,92.8,"TIER 2 — Standard stocking",OK
+4421,"Organic Beef Uncured Hot Dogs","meat seafood",96645.15,167,47.9,92.2,"TIER 2 — Standard stocking",OK
+25824,"Pita Chips Simply Naked",snacks,96168.00,147,45.6,93.2,"TIER 2 — Standard stocking",OK
+49175,"Organic Pinto Beans","canned goods",94876.72,229,55.9,94.3,"TIER 2 — Standard stocking",OK
+11782,"Bing Cherries",produce,94538.70,253,54.5,91.7,"TIER 2 — Standard stocking",OK
+35108,"Salted Butter","dairy eggs",93819.32,309,57.6,93.5,"TIER 2 — Standard stocking",OK
+19019,"Uncured Slow Cooked Ham",deli,93769.25,205,57.6,90.7,"TIER 2 — Standard stocking",OK
+14233,"Natural Artesian Water",beverages,93495.57,209,71.8,90.9,"TIER 2 — Standard stocking",OK
+12916,"Ginger Ale",beverages,92899.38,187,50.3,94.7,"TIER 2 — Standard stocking",OK
+33768,"Sinfully Sweet Campari Tomatoes",produce,92883.64,279,68.1,92.5,"TIER 2 — Standard stocking",OK
+6046,"Boneless Skinless Chicken Breast","meat seafood",92722.86,426,67.4,91.3,"TIER 2 — Standard stocking",OK
+27344,"Uncured Genoa Salami",deli,92711.86,675,65.0,91.7,"TIER 2 — Standard stocking",OK
+15872,"Celery Hearts",produce,92145.85,172,54.1,92.4,"TIER 2 — Standard stocking",OK
+32864,"Organic Baby Rainbow Carrots",produce,91963.80,275,58.2,93.5,"TIER 2 — Standard stocking",OK
+28601,"Collard Greens",produce,91939.59,200,64.0,95.5,"TIER 2 — Standard stocking",OK
+11408,"Crushed Tomatoes","canned goods",91495.50,172,47.7,93.0,"TIER 2 — Standard stocking",OK
+26497,"Romaine Lettuce",produce,91195.04,188,43.1,91.5,"TIER 2 — Standard stocking",OK
+46720,"Organic Free Range Chicken Broth","canned goods",91193.96,209,47.8,93.8,"TIER 2 — Standard stocking",OK
+24830,"Organic Romaine",produce,90754.05,348,58.6,93.1,"TIER 2 — Standard stocking",OK
+41220,"Organic Romaine Lettuce",produce,90721.36,579,65.1,93.1,"TIER 2 — Standard stocking",OK
+46979,Asparagus,produce,90692.28,1094,61.8,93.9,"TIER 2 — Standard stocking",OK
+20995,"Organic Broccoli Florets",frozen,89748.39,577,69.5,94.5,"TIER 2 — Standard stocking",OK
+5646,"Organic Turkey Bacon","meat seafood",89705.22,209,53.6,92.8,"TIER 2 — Standard stocking",OK
+10673,"Original Nooks & Crannies English Muffins",bakery,89431.90,253,68.0,93.3,"TIER 2 — Standard stocking",OK
+18811,"Organic Apple Juice",beverages,89318.74,149,56.4,96.6,"TIER 2 — Standard stocking",OK
+196,Soda,beverages,89129.04,570,78.6,92.3,"TIER 2 — Standard stocking",OK
+44799,"Fresh CA Grown Eggs","dairy eggs",89042.94,158,78.5,87.3,"TIER 2 — Standard stocking",OK
+40604,"Feta Cheese Crumbles","dairy eggs",88495.30,490,51.0,94.9,"TIER 2 — Standard stocking",OK
+34262,"Hint Of Sea Salt Almond Nut Thins",snacks,88252.40,189,63.5,89.9,"TIER 2 — Standard stocking",OK
+26940,"Organic Large Green Asparagus",produce,86963.82,349,57.0,94.6,"TIER 2 — Standard stocking",OK
+37158,"Chicken & Maple Breakfast Sausage",frozen,86378.28,309,64.7,92.2,"TIER 2 — Standard stocking",OK
+20574,"Roasted Turkey",deli,86209.12,138,73.2,94.2,"TIER 2 — Standard stocking",OK
+4472,"Toasted Coconut Almondmilk Blend","dairy eggs",86153.76,241,77.6,92.9,"TIER 2 — Standard stocking",OK
+38739,"Hass Avocado",produce,86090.40,250,56.0,93.2,"TIER 2 — Standard stocking",OK
+651,"Organic Salted Butter","dairy eggs",85577.94,240,61.3,90.4,"TIER 2 — Standard stocking",OK
+39619,"Organic Tomato Basil Pasta Sauce","dry goods pasta",85422.38,229,51.5,92.1,"TIER 2 — Standard stocking",OK
+42445,"Organic Plain Whole Milk Yogurt","dairy eggs",85284.36,260,73.1,95.4,"TIER 2 — Standard stocking",OK
+47977,"Grapefruit Sparkling Water",beverages,85217.84,249,69.1,93.6,"TIER 2 — Standard stocking",OK
+11005,"Organic Cream Cheese Bar","dairy eggs",85136.00,167,48.5,92.8,"TIER 2 — Standard stocking",OK
+20082,"Organic Whole Milk with DHA Omega-3","dairy eggs",85062.05,162,77.8,95.1,"TIER 2 — Standard stocking",OK
+9339,"Organic Chicken & Apple Sausage","meat seafood",85041.80,283,71.7,92.2,"TIER 2 — Standard stocking",OK
+24024,"1% Lowfat Milk","dairy eggs",85015.98,149,76.5,95.3,"TIER 2 — Standard stocking",OK
+44628,"Organic Dijon Mustard",pantry,84737.18,163,19.0,94.5,"TIER 2 — Standard stocking",OK
+40709,"Sea Salt & Vinegar Potato Chips",snacks,81751.80,228,58.8,94.7,"TIER 2 — Standard stocking",OK
+31717,"Organic Cilantro",produce,81488.55,1074,58.7,93.6,"TIER 2 — Standard stocking",OK
+3896,"Organic Honey Sweet Whole Wheat Bread",bakery,81418.86,201,81.1,91.5,"TIER 2 — Standard stocking",OK
+32734,Spaghetti,"dry goods pasta",81046.08,248,52.0,92.7,"TIER 2 — Standard stocking",OK
+43662,"Yogurt, Strained Low-Fat, Coconut","dairy eggs",80924.56,218,70.2,96.8,"TIER 2 — Standard stocking",OK
+31683,"Original No Pulp 100% Florida Orange Juice",beverages,80048.52,286,62.6,93.7,"TIER 2 — Standard stocking",OK
+9020,"Boneless Skinless Chicken Thighs","meat seafood",80034.24,182,56.0,94.0,"TIER 2 — Standard stocking",OK
+8048,"Packaged Grape Tomatoes",produce,79726.20,183,67.8,90.7,"TIER 2 — Standard stocking",OK
+20738,"Plain Bagels",bakery,79261.32,207,68.1,89.4,"TIER 2 — Standard stocking",OK
+18465,"Organic Grade A Free Range Large Brown Eggs","dairy eggs",78963.72,553,68.0,92.0,"TIER 2 — Standard stocking",OK
+47141,Cola,beverages,78864.68,177,67.2,91.5,"TIER 2 — Standard stocking",OK
+37220,"Organic Strawberry Fruit Spread",pantry,78348.75,199,61.8,91.0,"TIER 2 — Standard stocking",OK
+39812,"Organic Thyme",produce,78044.73,297,35.0,93.9,"TIER 2 — Standard stocking",OK
+25890,"Boneless Skinless Chicken Breasts","meat seafood",77964.24,833,63.4,92.9,"TIER 2 — Standard stocking",OK
+44560,"Kids Organic Chocolate Chip ZBars",snacks,77717.89,138,59.4,89.9,"TIER 2 — Standard stocking",OK
+10957,"Fridge Pack Cola",beverages,77693.77,235,64.3,93.2,"TIER 2 — Standard stocking",OK
+7969,Lime,produce,77572.44,175,49.1,92.0,"TIER 2 — Standard stocking",OK
+32177,"Blood Oranges",produce,77210.80,167,49.1,94.0,"TIER 2 — Standard stocking",OK
+34584,"Organic Sliced Peaches",frozen,76883.26,124,40.3,94.4,"TIER 2 — Standard stocking",OK
+25931,"Organic Baby Spinach Salad",produce,76417.55,305,71.5,90.8,"TIER 2 — Standard stocking",OK
+18288,"Sea Salt Potato Chips",snacks,76373.84,220,62.3,92.3,"TIER 2 — Standard stocking",OK
+329,"Organic Whole Grassmilk Milk","dairy eggs",76169.52,150,69.3,93.3,"TIER 2 — Standard stocking",OK
+4957,"Total 2% Lowfat Greek Strained Yogurt With Blueberry","dairy eggs",76152.96,334,74.6,92.8,"TIER 2 — Standard stocking",OK
+10132,"Organic American Cheese Singles","dairy eggs",76144.32,218,72.0,94.0,"TIER 2 — Standard stocking",OK
+25340,"Large Yellow Flesh Nectarine",produce,75847.90,204,55.9,93.6,"TIER 2 — Standard stocking",OK
+35898,"Original Hot Sauce",pantry,75647.97,194,39.7,90.2,"TIER 2 — Standard stocking",OK
+4656,"Raspberry Preserves",pantry,75496.82,135,43.7,94.1,"TIER 2 — Standard stocking",OK
+12980,"Large Greenhouse Tomato",produce,75469.03,120,50.0,90.8,"TIER 2 — Standard stocking",OK
+34969,"Red Vine Tomato",produce,75302.79,871,64.4,92.7,"TIER 2 — Standard stocking",OK
+14161,Kiwi,produce,75063.04,167,55.1,95.2,"TIER 2 — Standard stocking",OK
+23288,"Distilled Water",beverages,73649.30,312,74.7,94.9,"TIER 2 — Standard stocking",OK
+45603,"Trilogy Kombucha Drink",beverages,73633.12,246,77.6,94.7,"TIER 2 — Standard stocking",OK
+20955,Cereal,breakfast,72803.45,196,57.1,94.4,"TIER 2 — Standard stocking",OK
+44359,"Organic Small Bunch Celery",produce,72657.84,1147,62.8,92.7,"TIER 2 — Standard stocking",OK
+5134,"Organic Thompson Seedless Raisins",snacks,72307.62,216,57.4,95.4,"TIER 2 — Standard stocking",OK
+1999,"Organic Chicken Broth","canned goods",72062.45,112,33.0,98.2,"TIER 2 — Standard stocking",OK
+16083,"Organic Large Brown Eggs","dairy eggs",71350.84,170,74.1,92.4,"TIER 2 — Standard stocking",OK
+9092,"Organic Vegetable Broth","canned goods",71323.31,157,48.4,93.0,"TIER 2 — Standard stocking",OK
+36070,"Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale",produce,71062.02,187,52.9,92.0,"TIER 2 — Standard stocking",OK
+18531,"Organic Heavy Whipping Cream","dairy eggs",70887.60,399,60.9,93.7,"TIER 2 — Standard stocking",OK
+16696,"Coke Classic",beverages,70848.20,176,61.4,93.8,"TIER 2 — Standard stocking",OK
+22124,"Total 0% Raspberry Yogurt","dairy eggs",70002.45,180,73.3,95.0,"TIER 2 — Standard stocking",OK
+7021,"Organic Tomato Paste","canned goods",69949.24,301,45.2,94.7,"TIER 2 — Standard stocking",OK
+21927,"Organic Boneless Skinless Chicken Breast","meat seafood",69814.60,153,66.0,94.1,"TIER 2 — Standard stocking",OK
+47042,"Organic Red On the Vine Tomato",produce,69701.00,234,54.3,94.4,"TIER 2 — Standard stocking",OK
+3376,"Organic Whole Kernel Sweet Corn No Salt Added","canned goods",69669.84,203,46.3,94.1,"TIER 2 — Standard stocking",OK
+30169,"Total 2% All Natural Plain Greek Yogurt","dairy eggs",68808.60,300,74.3,94.7,"TIER 2 — Standard stocking",OK
+36735,"Organic Roasted Sliced Chicken Breast",deli,68570.88,230,60.0,91.3,"TIER 2 — Standard stocking",OK
+41665,"Organic Mexican Blend Finely Shredded Cheese","dairy eggs",68220.36,389,71.0,91.5,"TIER 2 — Standard stocking",OK
+36011,"Organic Fat Free Milk","dairy eggs",68213.60,464,83.4,92.7,"TIER 2 — Standard stocking",OK
+17872,"Total 2% Lowfat Plain Greek Yogurt","dairy eggs",67931.70,311,64.6,93.2,"TIER 2 — Standard stocking",OK
+39190,"Vanilla Unsweetened Almond Milk","dairy eggs",67434.75,199,57.3,94.0,"TIER 2 — Standard stocking",OK
+46584,"YoKids Blueberry & Strawberry/Vanilla Yogurt","dairy eggs",67040.05,186,63.4,90.3,"TIER 2 — Standard stocking",OK
+22959,"Reduced Fat Milk 100% Lactose Free","dairy eggs",66990.08,253,79.1,92.1,"TIER 2 — Standard stocking",OK
+6187,"Raisin Bran Cereal",breakfast,66837.24,244,61.5,95.1,"TIER 2 — Standard stocking",OK
+19660,"Spring Water",beverages,66409.20,864,80.3,93.4,"TIER 2 — Standard stocking",OK
+23165,"Organic Leek",produce,65828.96,342,55.3,92.7,"TIER 2 — Standard stocking",OK
+5373,"Organic No Salt Added Diced Tomatoes","canned goods",64784.41,156,40.4,95.5,"TIER 2 — Standard stocking",OK
+13380,"Organic Blue Corn Tortilla Chips",snacks,64656.90,242,62.0,94.6,"TIER 2 — Standard stocking",OK
+16759,"Organic Carrot Bunch",produce,63303.54,667,59.1,92.2,"TIER 2 — Standard stocking",OK
+45535,"Organic Low Sodium Chicken Broth","canned goods",63052.64,268,46.6,91.0,"TIER 2 — Standard stocking",OK
+1940,"Organic 2% Reduced Fat Milk","dairy eggs",62669.04,453,78.8,93.2,"TIER 2 — Standard stocking",OK
+20345,"Thin Crust Pepperoni Pizza",frozen,62133.04,169,63.3,94.1,"TIER 2 — Standard stocking",OK
+43295,"Unsweetened Vanilla Almond Milk","dairy eggs",61780.24,372,65.1,92.2,"TIER 2 — Standard stocking",OK
+21872,"Organic Italian Salad",produce,61505.86,205,62.9,95.6,"TIER 2 — Standard stocking",OK
+7963,"Gluten Free Whole Grain Bread",frozen,60907.35,254,68.5,92.9,"TIER 2 — Standard stocking",OK
+40332,"Cage Free Brown Eggs-Large, Grade A","dairy eggs",60545.76,252,65.1,91.7,"TIER 2 — Standard stocking",OK
+25513,"Boomchickapop Sea Salt Popcorn",snacks,60536.95,153,58.2,93.5,"TIER 2 — Standard stocking",OK
+46820,"Vanilla Pure Almond Milk","dairy eggs",60406.32,159,69.8,91.8,"TIER 2 — Standard stocking",OK
+39984,"Organic Dill",produce,59542.89,268,49.6,94.8,"TIER 2 — Standard stocking",OK
+21174,"I Heart Baby Kale",produce,58915.58,230,55.7,97.4,"TIER 2 — Standard stocking",OK
+6104,"Whole Milk Plain Yogurt","dairy eggs",58627.80,233,70.0,94.4,"TIER 2 — Standard stocking",OK
+33401,"Goat Cheese Crumbles","dairy eggs",58183.86,172,43.6,94.2,"TIER 2 — Standard stocking",OK
+2228,"Organic Frozen Mango Chunks",frozen,58181.04,174,52.3,93.1,"TIER 2 — Standard stocking",OK
+46654,"Organic Grade A Large Brown Eggs","dairy eggs",58031.29,244,55.7,90.6,"TIER 2 — Standard stocking",OK
+17316,"Vitamin D Organic Whole Milk","dairy eggs",57641.44,161,72.7,93.2,"TIER 2 — Standard stocking",OK
+42356,"Strawberry Preserves",pantry,57637.80,240,47.5,90.0,"TIER 2 — Standard stocking",OK
+46616,"Organic Dark Chocolate Peanut Butter Cups",snacks,56589.60,149,55.0,91.9,"TIER 2 — Standard stocking",OK
+17461,"Air Chilled Organic Boneless Skinless Chicken Breasts","meat seafood",56311.20,217,64.5,94.0,"TIER 2 — Standard stocking",OK
+38273,"Marinara Pasta Sauce","dry goods pasta",56263.38,155,47.7,93.5,"TIER 2 — Standard stocking",OK
+17600,"YoKids Squeezers Organic Low-Fat Yogurt, Strawberry","dairy eggs",55304.85,256,66.4,91.4,"TIER 2 — Standard stocking",OK
+44422,"Organic Old Fashioned Rolled Oats",breakfast,55279.20,307,53.1,90.2,"TIER 2 — Standard stocking",OK
+6348,"Mini Original Babybel Cheese","dairy eggs",55267.60,288,65.3,93.8,"TIER 2 — Standard stocking",OK
+10070,"Organic 1% Low Fat Milk","dairy eggs",55230.50,165,73.3,89.1,"TIER 2 — Standard stocking",OK
+30489,"Original Hummus",deli,54708.50,1124,72.0,93.6,"TIER 2 — Standard stocking",OK
+2452,"Naturals Chicken Nuggets",frozen,54331.92,120,55.0,88.3,"TIER 2 — Standard stocking",OK
+4086,Mint,produce,53094.53,154,37.7,98.7,"TIER 2 — Standard stocking",OK
+16521,"Walnut Halves & Pieces",snacks,52117.36,186,50.0,94.1,"TIER 2 — Standard stocking",OK
+40545,"Berry Medley",frozen,51590.95,205,46.3,92.7,"TIER 2 — Standard stocking",OK
+35140,"Organic Whole Cashews",snacks,50357.06,224,61.6,92.4,"TIER 2 — Standard stocking",OK
+33787,"Total 2% Lowfat Greek Strained Yogurt with Peach","dairy eggs",50355.50,302,71.9,93.7,"TIER 2 — Standard stocking",OK
+11422,"Plain Greek Yogurt","dairy eggs",49381.80,168,63.1,94.6,"TIER 2 — Standard stocking",OK
+5456,"Green Tea With Ginseng and Honey",deli,48981.87,195,62.1,95.4,"TIER 2 — Standard stocking",OK
+6873,"Organic Iceberg Lettuce",produce,48891.75,189,54.0,91.0,"TIER 2 — Standard stocking",OK
+13249,"Skim Milk","dairy eggs",48740.79,254,76.0,95.3,"TIER 2 — Standard stocking",OK
+15937,Shallot,produce,48728.16,226,45.1,90.3,"TIER 2 — Standard stocking",OK
+5025,"Green Onions",produce,48525.12,380,48.2,95.0,"TIER 2 — Standard stocking",OK
+44449,"Organic Tomato Sauce","canned goods",48255.15,188,35.6,94.7,"TIER 2 — Standard stocking",OK
+12845,"Chopped Walnuts",snacks,47982.48,164,47.0,95.1,"TIER 2 — Standard stocking",OK
+15902,"100 Calorie  Per Bag Popcorn",snacks,47380.20,210,68.1,96.7,"TIER 2 — Standard stocking",OK
+40310,"Oven Roasted Turkey Breast",deli,46882.50,376,64.9,93.9,"TIER 2 — Standard stocking",OK
+30450,"Creamy Almond Butter",pantry,46673.90,403,60.0,93.1,"TIER 2 — Standard stocking",OK
+8309,"Nonfat Icelandic Style Strawberry Yogurt","dairy eggs",46476.52,223,78.5,94.2,"TIER 2 — Standard stocking",OK
+29987,"Shredded Mozzarella","dairy eggs",46150.60,292,44.5,93.2,"TIER 2 — Standard stocking",OK
+26800,"Organic Baby Kale Mix",produce,45763.10,199,53.3,92.5,"TIER 2 — Standard stocking",OK
+24561,"Organic Cheese Frozen Pizza",frozen,45641.92,173,56.6,90.8,"TIER 2 — Standard stocking",OK
+22474,"Cheddar Bunnies Snack Crackers",snacks,45363.88,164,53.0,94.5,"TIER 2 — Standard stocking",OK
+35535,"Organic Red Chard Greens",produce,44956.50,208,57.2,89.9,"TIER 2 — Standard stocking",OK
+38159,"Organic Yellow Peaches",produce,44925.66,324,63.0,94.1,"TIER 2 — Standard stocking",OK
+13629,"Organic Snipped Green Beans",produce,43981.50,273,68.5,93.8,"TIER 2 — Standard stocking",OK
+22395,"Tomato Sauce","canned goods",43350.40,191,37.7,91.1,"TIER 2 — Standard stocking",OK
+24489,"Organic Whole Strawberries",frozen,43216.17,475,58.3,93.3,"TIER 2 — Standard stocking",OK
+3464,"Organic Butterhead (Boston, Butter, Bibb) Lettuce",produce,42906.05,221,55.7,91.0,"TIER 2 — Standard stocking",OK
+39947,"Blackberry Cucumber Sparkling Water",beverages,42833.20,170,67.1,92.4,"TIER 2 — Standard stocking",OK
+37766,"XL Emerald White Seedless Grapes",produce,42662.99,235,60.4,94.9,"TIER 2 — Standard stocking",OK
+35503,"Organic Vanilla Almond Milk","dairy eggs",42284.58,298,81.9,91.6,"TIER 2 — Standard stocking",OK
+29662,"Potato Yukon Gold Organic",produce,42254.16,232,56.5,94.0,"TIER 2 — Standard stocking",OK
+6948,"Organic Original Almond Milk","dairy eggs",42230.76,158,80.4,90.5,"TIER 2 — Standard stocking",OK
+11712,"Cage Free Large White Eggs","dairy eggs",42170.48,143,69.2,91.6,"TIER 2 — Standard stocking",OK
+28849,"No Salt Added Black Beans","canned goods",41988.87,427,56.4,92.5,"TIER 2 — Standard stocking",OK
+21386,Smartwater,beverages,41323.84,246,76.0,89.0,"TIER 2 — Standard stocking",OK
+28289,"Organic Shredded Carrots",produce,41173.44,334,65.0,94.9,"TIER 2 — Standard stocking",OK
+46802,"Pineapple Chunks",frozen,40981.22,463,64.6,91.4,"TIER 2 — Standard stocking",OK
+17706,"Organic Whole Grain Wheat English Muffins",bakery,40160.22,160,57.5,92.5,"TIER 2 — Standard stocking",OK
+36865,"Non Fat Raspberry Yogurt","dairy eggs",39486.58,390,77.9,93.8,"TIER 2 — Standard stocking",OK
+20734,"Organic Medjool Dates",snacks,38549.94,216,63.0,90.7,"TIER 2 — Standard stocking",OK
+35914,"Dha Omega 3 Reduced Fat 2% Milk","dairy eggs",38349.92,189,75.7,94.2,"TIER 2 — Standard stocking",OK
+8859,"Natural Spring Water",beverages,38321.15,365,79.2,93.7,"TIER 2 — Standard stocking",OK
+1194,"Natural Artisan Water",beverages,38318.70,177,76.8,93.2,"TIER 2 — Standard stocking",OK
+1158,"Mango Chunks",frozen,38291.50,326,54.9,92.0,"TIER 2 — Standard stocking",OK
+11140,"Organic Romaine Leaf",produce,37930.20,209,71.8,94.7,"TIER 2 — Standard stocking",OK
+13535,"Organic Medium Salsa",pantry,37888.20,211,43.1,92.9,"TIER 2 — Standard stocking",OK
+17122,"Honeycrisp Apples",produce,37462.95,150,54.7,96.0,"TIER 2 — Standard stocking",OK
+14992,"Green Beans",produce,37366.25,447,55.3,89.9,"TIER 2 — Standard stocking",OK
+2314,"Whole Milk Ricotta Cheese","dairy eggs",36929.34,143,37.1,94.4,"TIER 2 — Standard stocking",OK
+7175,"Organic Whipped Naturally Buttery Spread","dairy eggs",36322.50,209,52.6,90.4,"TIER 2 — Standard stocking",OK
+1463,"Organic Milk","dairy eggs",35166.95,467,78.4,92.3,"TIER 2 — Standard stocking",OK
+24841,"Aged White Cheddar Baked Rice & Corn Puffs Gluten Free Lunch Packs",snacks,34861.05,184,66.8,88.6,"TIER 2 — Standard stocking",OK
+32433,"Green Peas",frozen,34828.64,128,43.0,93.8,"TIER 2 — Standard stocking",OK
+38164,"Almonds & Sea Salt in Dark Chocolate",snacks,34482.24,216,67.6,94.9,"TIER 2 — Standard stocking",OK
+25466,Water,beverages,33924.69,248,75.0,91.9,"TIER 2 — Standard stocking",OK
+11068,"Medium Cheddar Cheese Block","dairy eggs",33433.98,171,64.9,89.5,"TIER 2 — Standard stocking",OK
+13740,"Organic Summer Strawberry Bunny Fruit Snacks",snacks,33166.44,268,65.3,91.4,"TIER 2 — Standard stocking",OK
+49191,"Cran Raspberry Sparkling Water",beverages,33151.17,246,64.2,94.7,"TIER 2 — Standard stocking",OK
+1025,"Organic Fresh Basil",produce,33130.24,184,46.2,90.8,"TIER 2 — Standard stocking",OK
+38777,"Organic Green Seedless Grapes",produce,32665.60,345,60.0,93.3,"TIER 2 — Standard stocking",OK
+42450,"Macaroni & Cheese",frozen,32620.86,300,69.3,91.7,"TIER 2 — Standard stocking",OK
+27323,"Pure & Natural Sour Cream","dairy eggs",31825.50,142,33.8,94.4,"TIER 2 — Standard stocking",OK
+18370,"Organic Shredded Mozzarella","dairy eggs",30882.30,312,64.1,91.3,"TIER 2 — Standard stocking",OK
+37029,"Cream Cheese Spread","dairy eggs",30252.86,189,63.5,93.1,"TIER 2 — Standard stocking",OK
+4210,"Whole Milk","dairy eggs",29822.40,682,80.1,93.4,"TIER 2 — Standard stocking",OK
+9825,"Organic Multigrain Waffles",frozen,29541.30,144,66.0,94.4,"TIER 2 — Standard stocking",OK
+16185,"Sharp Cheddar Cheese","dairy eggs",28632.87,469,57.8,92.3,"TIER 2 — Standard stocking",OK
+890,"Organic Diced Tomatoes","canned goods",28270.45,355,48.2,94.4,"TIER 2 — Standard stocking",OK
+31553,"Fresh Ginger Root",produce,27883.83,366,47.3,94.5,"TIER 2 — Standard stocking",OK
+34358,Garlic,produce,26840.16,521,56.2,92.9,"TIER 2 — Standard stocking",OK
+25588,"Seedless Small Watermelon",produce,26775.00,208,48.1,90.9,"TIER 2 — Standard stocking",OK
+27548,"Original Semisoft Cheese","dairy eggs",26651.63,298,74.8,92.3,"TIER 2 — Standard stocking",OK
+4799,"Shredded Parmesan","dairy eggs",25485.60,586,67.2,93.7,"TIER 2 — Standard stocking",OK
+18441,"Organic Ketchup",pantry,25367.94,279,41.9,93.2,"TIER 2 — Standard stocking",OK
+11182,"Baby Spinach",produce,25177.32,309,55.3,94.5,"TIER 2 — Standard stocking",OK
+27744,"Organic Whipping Cream","dairy eggs",25134.91,241,69.3,94.2,"TIER 2 — Standard stocking",OK
+17758,"Strawberry Rhubarb Yoghurt","dairy eggs",25070.74,151,55.0,92.1,"TIER 2 — Standard stocking",OK
+17948,"Frozen Organic Wild Blueberries",frozen,25015.50,541,61.2,91.9,"TIER 2 — Standard stocking",OK
+19173,"Orange Calcium & Vitamin D Pulp Free",beverages,24135.57,184,59.2,95.1,"TIER 2 — Standard stocking",OK
+44570,"Kale Greens",produce,23017.13,199,57.3,93.0,"TIER 2 — Standard stocking",OK
+13517,"Whole Wheat Bread",bakery,22776.96,98,57.1,93.9,"TIER 2 — Standard stocking",OK
+30776,"Organic Raw Kombucha Gingerade",beverages,22120.02,296,75.0,92.6,"TIER 2 — Standard stocking",OK
+31915,"Organic Red Delicious Apple",produce,21965.13,178,61.8,94.4,"TIER 2 — Standard stocking",OK
+40516,"Organic Romaine Hearts",produce,21564.50,219,42.0,90.4,"TIER 2 — Standard stocking",OK
+49520,"Orange Sparkling Water",beverages,21191.09,227,70.9,95.2,"TIER 2 — Standard stocking",OK
+36550,"Organic Extra Large Grade AA Brown Eggs","dairy eggs",21037.20,233,68.7,91.8,"TIER 2 — Standard stocking",OK
+45,"European Cucumber",produce,20909.65,272,62.1,93.4,"TIER 2 — Standard stocking",OK
+3599,"Baked Aged White Cheddar Rice and Corn Puffs",snacks,20877.88,228,61.0,89.5,"TIER 2 — Standard stocking",OK
+13198,"85% Lean Ground Beef","meat seafood",20811.21,168,60.7,94.0,"TIER 2 — Standard stocking",OK
+41065,"Organic Yellow Squash",produce,20687.04,178,62.4,90.4,"TIER 2 — Standard stocking",OK
+25138,"Organic Plain Greek Whole Milk Yogurt","dairy eggs",19893.65,287,79.4,94.1,"TIER 2 — Standard stocking",OK
+16965,"Chocolate Ice Cream",frozen,18988.20,200,44.5,92.0,"TIER 2 — Standard stocking",OK
+14084,"Organic Unsweetened Vanilla Almond Milk","dairy eggs",18881.12,207,76.8,93.7,"TIER 2 — Standard stocking",OK
+14462,"Sliced Black Olives",pantry,18671.40,174,54.0,94.8,"TIER 2 — Standard stocking",OK
+18234,"Organic Spinach Bunch",produce,18508.50,201,59.7,92.0,"TIER 2 — Standard stocking",OK
+35042,"Black Beans","canned goods",18278.00,186,39.8,90.9,"TIER 2 — Standard stocking",OK
+30233,"Organic Large Brown Grade AA Cage Free Eggs","dairy eggs",17746.94,436,71.1,91.7,"TIER 2 — Standard stocking",OK
+30827,"Seedless Cucumbers",produce,17424.00,177,69.5,92.7,"TIER 2 — Standard stocking",OK
+5818,"White Onion",produce,17216.16,309,56.0,91.9,"TIER 2 — Standard stocking",OK
+19706,"Organic Nectarine",produce,17139.80,211,53.1,93.8,"TIER 2 — Standard stocking",OK
+5322,"Gluten Free Dark Chocolate Chunk Chewy with a Crunch Granola Bars",snacks,16932.08,152,59.2,95.4,"TIER 2 — Standard stocking",OK
+21333,"Original Whipped Cream Cheese","dairy eggs",15760.80,215,64.7,95.3,"TIER 2 — Standard stocking",OK
+2825,"Organic Original Hommus",deli,15711.72,206,60.2,94.7,"TIER 2 — Standard stocking",OK
+5161,"Dried Mango",bulk,15694.29,168,73.2,92.9,"TIER 2 — Standard stocking",OK
+18479,"Organic Low Sodium Vegetable Broth","canned goods",15512.40,193,54.9,95.9,"TIER 2 — Standard stocking",OK
+17949,"Mild Cheddar Cheese Sticks","dairy eggs",15106.20,266,80.5,93.6,"TIER 2 — Standard stocking",OK
+21267,"Sourdough Bread",bakery,14463.70,278,72.3,92.8,"TIER 2 — Standard stocking",OK
+3298,"Mozzarella String Cheese","dairy eggs",14021.70,194,70.1,91.8,"TIER 2 — Standard stocking",OK
+42625,"Flat Parsley, Bunch",produce,13798.20,201,39.8,95.5,"TIER 2 — Standard stocking",OK
+35921,"Organic Large Grade A Brown Eggs","dairy eggs",13358.25,339,75.8,91.4,"TIER 2 — Standard stocking",OK
+38768,"Sweet Kale Salad Mix",produce,12928.55,223,72.2,93.7,"TIER 2 — Standard stocking",OK
+33055,"Organic Golden Delicious Apple",produce,12791.22,155,67.7,90.3,"TIER 2 — Standard stocking",OK
+43504,"Organic Chicken Strips",frozen,12437.32,148,57.4,91.9,"TIER 2 — Standard stocking",OK
+47630,"Medium Navel Orange",produce,12335.28,255,69.8,93.3,"TIER 2 — Standard stocking",OK
+42719,"Natural Premium Coconut Water",beverages,12233.19,195,59.0,96.4,"TIER 2 — Standard stocking",OK
+39561,"Crackers Cheddar Bunnies Snack Packs",snacks,12222.75,192,59.9,93.8,"TIER 2 — Standard stocking",OK
+5194,"Organic Bunny Fruit Snacks Berry Patch",snacks,11832.38,185,54.6,93.5,"TIER 2 — Standard stocking",OK
+41588,"Firm Tofu",deli,11525.76,183,59.6,97.8,"TIER 2 — Standard stocking",OK
+7503,"Whole Almonds",snacks,11419.20,178,51.7,93.8,"TIER 2 — Standard stocking",OK
+44765,"Colby Cheese Sticks","dairy eggs",10605.01,177,71.8,94.9,"TIER 2 — Standard stocking",OK
+21573,"Roasted Pine Nut Hummus",deli,9851.88,171,56.1,91.8,"TIER 2 — Standard stocking",OK
+40723,"Organic Cripps Pink Apples",produce,9483.48,159,58.5,90.6,"TIER 2 — Standard stocking",OK
+43086,"Super Greens Salad",produce,9476.25,268,61.6,94.4,"TIER 2 — Standard stocking",OK
+35628,"Organic Strawberry Smoothie","dairy eggs",9363.69,86,72.1,94.2,"TIER 2 — Standard stocking",OK
+28745,"Oven Roasted Turkey",deli,9133.11,168,69.0,90.5,"TIER 2 — Standard stocking",OK
+26348,"Mixed Fruit Fruit Snacks",snacks,7517.78,144,59.7,94.4,"TIER 2 — Standard stocking",OK
+23537,"Light Brown Sugar",pantry,74767.98,228,25.4,95.2,"TIER 3 — Rationalize or cut",OK
+31066,"Aluminum Foil",household,54535.10,181,14.9,94.5,"TIER 3 — Rationalize or cut",OK
+14197,"Tomato Paste","dry goods pasta",45261.36,164,24.4,92.1,"TIER 3 — Rationalize or cut",OK
+7751,"Tomato Ketchup",pantry,23068.98,195,25.1,92.8,"TIER 3 — Rationalize or cut",OK

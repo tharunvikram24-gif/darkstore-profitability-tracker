@@ -1,0 +1,21 @@
+store_name,city,product_name,department,quantity_on_hand,last_restocked,shelf_life_days,days_since_restock,waste_value_inr
+"Mumbai Store 7",Mumbai,Spinach,produce,80,2024-01-02,3,897,22342
+"Bengaluru Store 1",Bengaluru,"Mandarin Oranges",produce,80,2024-01-14,4,885,22323
+"Bengaluru Store 6",Bengaluru,"Organic Celery Hearts",produce,80,2024-01-20,4,879,22143
+"Chennai Store 5",Chennai,"Organic Cucumber",produce,80,2024-01-03,2,896,22135
+"Bengaluru Store 8",Bengaluru,"Organic Cucumber",produce,80,2024-01-04,2,895,22135
+"Bengaluru Store 1",Bengaluru,"Organic Red Cabbage",produce,80,2024-01-22,2,877,22085
+"Chennai Store 3",Chennai,"Sparkling Water Grapefruit",beverages,80,2024-01-05,2,894,21994
+"Chennai Store 8",Chennai,"Sparkling Water Grapefruit",beverages,80,2024-01-29,2,870,21994
+"Hyderabad Store 4",Hyderabad,"Green Bell Pepper",produce,80,2024-01-23,5,876,21981
+"Delhi Store 4",Delhi,"Organic Reduced Fat 2% Milk","dairy eggs",80,2024-01-01,4,898,21895
+"Mumbai Store 7",Mumbai,"Organic Celery Hearts",produce,79,2024-01-14,4,885,21866
+"Mumbai Store 6",Mumbai,"Organic Red Cabbage",produce,79,2024-01-26,2,873,21809
+"Delhi Store 6",Delhi,Banana,produce,78,2024-01-24,4,875,21787
+"Mumbai Store 1",Mumbai,Spinach,produce,78,2024-01-07,3,892,21783
+"Hyderabad Store 5",Hyderabad,"Total Greek Strained Yogurt","dairy eggs",79,2024-01-28,2,871,21751
+"Hyderabad Store 4",Hyderabad,"2% Reduced Fat DHA Omega-3 Reduced Fat Milk","dairy eggs",80,2024-01-13,2,886,21742
+"Chennai Store 6",Chennai,"2% Reduced Fat DHA Omega-3 Reduced Fat Milk","dairy eggs",80,2024-01-10,2,889,21742
+"Pune Store 4",Pune,"Sparkling Water Grapefruit",beverages,79,2024-01-18,2,881,21719
+"Chennai Store 1",Chennai,"Organic Uncured Sliced Black Forest Ham",deli,79,2024-01-27,4,872,21718
+"Mumbai Store 2",Mumbai,"Organic Uncured Sliced Black Forest Ham",deli,79,2024-01-01,4,898,21718
