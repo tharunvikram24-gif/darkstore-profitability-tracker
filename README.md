@@ -1,6 +1,6 @@
 # Dark Store Profitability Collapse Tracker
 
-A SQL-based analytics system that reconstructs the exact failure pattern behind Dunzo's collapse — and shows what could have caught it 18 months earlier.
+A SQL-based analytics system that reconstructs the exact failure pattern behind Dunzo's collapse, and shows what could have caught it 18 months earlier.
 
 ---
 
@@ -12,7 +12,7 @@ Dunzo lost ₹230 on every order delivered in H1 2022. By April 2023, they were 
 
 ## The Thesis
 
-Dunzo did not collapse because of competition. It collapsed because it had no system to measure where each store was *heading* — only where it currently stood. By the time a store was visibly failing, months of fixed costs (rent, staff, sunk inventory) had already been burned with no early warning.
+Dunzo did not collapse because of competition. It collapsed because it had no system to measure where each store was *heading*, only where it currently stood. By the time a store was visibly failing, months of fixed costs (rent, staff, sunk inventory) had already been burned with no early warning.
 
 This project builds that early-warning system using SQL alone.
 
